@@ -1,0 +1,41 @@
+/*Mendoza Santos Angel Jared*/
+/*PRACTICA 11*/
+html,body{
+    height:100%;
+}
+header{
+    display:block;
+    background:#B8DFDF;
+    padding:20px 100px;
+stroke-width: 6px;
+}
+
+section {
+    width:80%;
+    background:#B8CEDF;
+    float:right;
+    overflow:auto;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}B8DFDF
+aside{
+    float:left;
+    border: 8px  solid #ECA3A3;
+    width: 19%;
+    border: 1px solid #B8CEDF;
+    /*si quisieramos ocultar el contenido relacionado podriamos visibility a hidden*/
+    /*visibility: hidden;*/
+}
+footer{
+    position: relative;
+    margin-top; -50px;
+    height: 120px;
+    padding:5px 0px;
+    clear: both;
+    background: #D0C0C0;
+    text-align: center;
+    color: #A12207;
+}
+figure {
+    display: table;margin: 0 auto
+}
